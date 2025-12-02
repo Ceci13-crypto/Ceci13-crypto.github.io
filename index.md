@@ -1,5 +1,5 @@
 
-# Cecilia Molina Portfolio
+# Cecilia Molina's Portfolio
 
 I am a computer science major at CSUF and I plan on graduating in 2029.
 
