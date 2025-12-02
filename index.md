@@ -19,4 +19,8 @@ I am a computer science major at CSUF and I plan on graduating in 2029.
 
 * Lab 4, Part 2 
 
-    This lab was probably my favorite because I love using if else statements. It was fun having the program check if the player’s guess was the same as the answer. After all of the code was written, it was fun seeing it all come together. We would just plug in random numbers, and it was cool seeing that the program knew if it was correct or not, no matter the number. 
+    This lab was probably my favorite because I love using if else statements. It was fun having the program check if the player’s guess was the same as the answer. After all of the code was written, it was fun seeing it all come together. We would just plug in random numbers, and it was cool seeing that the program knew if it was correct or not, no matter the number.
+
+### Link to My GitHub Profile
+
+    https://github.com/Ceci13-crypto
